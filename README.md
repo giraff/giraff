@@ -1,7 +1,10 @@
+
+![header](https://capsule-render.vercel.app/api?type=slice&height=300&section=header&text=HyeonJeong&fontSize=90)
+
 ### Hi there 👋 I'm HyeonJeong
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hse05105@gmail.com)](mailto:hse05105@gmail.com) 
 
-- 🌱 Interest ... Front-end ( Javascript, React, Bootstrap )
+- 🌱 Interest ... Front-end ( Javascript, React, HTML5, CSS )
 - 📌 Goal(2020) : 마인드 셋
 
 <!--
